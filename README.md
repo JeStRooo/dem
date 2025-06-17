@@ -6,4 +6,4 @@
 
 3. ```python src/main.py``` - запускаем проект
 
-### Гитхаб репозиторий - https://github.com/jestro/dem.git
+### Гитхаб репозиторий - https://github.com/JeStRooo/dem.git
